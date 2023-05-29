@@ -41,8 +41,7 @@ Each island in the model maintains its own population and performs genetic opera
 <figure>
   <img
   src="pga.JPG"
-  alt="The beautiful MDN logo.">
-  <figcaption align="center">Parallel genetic algorithm</figcaption>
+  alt=".">
 </figure>
 
 In our case we will use the platform jade in java to implements this model.
